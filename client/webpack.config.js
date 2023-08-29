@@ -29,7 +29,7 @@ module.exports = () => {
       }),
       new WebpackPwaManifest({
         name: 'Just Another Text Editor',
-        short_name: 'JATE',
+        short_name: 'jate',
         description: 'Text Editor Progressive Web App',
         crossorigin: 'use-credentials', //can be null, use-credentials or anonymous
         icons: [
@@ -64,7 +64,6 @@ module.exports = () => {
             },
           },
         }
-        
       ],
     },
   };
