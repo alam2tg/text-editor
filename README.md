@@ -87,6 +87,13 @@ Website URL: [enDEVors](https://endevor-3d604fa0490c.herokuapp.com/)
 
 <br>
 
+## Sources
+
+* [CSS Loaders](https://webpack.js.org/guides/asset-management/#loading-css)
+* [start vs start:dev](https://stackoverflow.com/questions/65273608/difference-between-start-and-dev-script-in-package-json-file)
+
+<br>
+
 ## Authors
 
 ### *__Aaron Lam__*
@@ -115,9 +122,6 @@ _Currently a student in the UC Berkeley Full Stack Coding Bootcamp. Contact Belo
 [https://github.com/alam2tg](https://github.com/alam2tg)
 <br>
 
-## Sources
-
-* https://webpack.js.org/guides/asset-management/#loading-css
 
 ## License
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
