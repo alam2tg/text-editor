@@ -19,23 +19,15 @@
 
 ## Learning Points
 
-- 
--
--
+- Concurrent NPM Scripts
+- Webpack servers
+- Webpack configuration with Plugins and Modules 
 
 <br>
 
 ## Features
 
-- **User Profiles:** To ensure the application's security, users are prompted to create an account. Once logged in, users can exclusively manage their own information, fostering a secure and personalized experience.
-
-- **Service Management:** Seamlessly add, edit, or remove the services you provide. Each service entry includes essential details such as name, description, and price, ensuring accurate and consistent quoting.
-
-- **Effortless Quote Creation:** The application streamlines the quote generation process. Create detailed quotes for your clients by selecting the relevant services from your catalog, eliminating the need to manually input each line item repeatedly.
-
-- **Quote Overview:** Gain instant access to a dedicated page displaying all your generated quotes. Effortlessly view the details of each quote, track their status, and stay on top of your client interactions.
-
-- **Flexible Quote Management:** Edit, delete, or re-download your quotes as needed. Maintain full control over your quote history and make adjustments whenever your clients' needs evolve.
+This project creates a text-editor application using Heroku. The application was built with webpack, which creates a leaner application for deployment.
 
 <br>
 
@@ -75,8 +67,9 @@
 ## How to Get Started
 
 1. Clone this repository to your local machine.
-2. Navigate to the project directory and install the required dependencies using `npm install`.
-3. Launch the application with `npm start` and access it through your preferred web browser.
+2. Navigate to the project directory and install the required dependencies using `npm install` in the Root, Client, and Server folders.
+3. Review the package.json scripts, and test the features.
+4. Launch the application with `npm start` and access it through your preferred web browser.
 <br>
 
 ## Deployment
