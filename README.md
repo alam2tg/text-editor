@@ -13,21 +13,22 @@
 
 ## Description
 
- enDEVors is a powerful and intuitive application designed specifically for freelance software developers. This tool simplifies the process of managing the services they offer, creating quotes for clients, and efficiently organizing their quote history.
+This application is a simple text-editor using webpack. The text editor has an isntillation feature that allows you to download the app locally to your computer.
 
 <br>
 
 ## Learning Points
 
-- Concurrent NPM Scripts
+- 'Concurrently' NPM Scripts
 - Webpack servers
-- Webpack configuration with Plugins and Modules 
+- Webpack configuration with Plugins and Modules
+- Installing applications through the browser.
 
 <br>
 
 ## Features
 
-This project creates a text-editor application using Heroku. The application was built with webpack, which creates a leaner application for deployment.
+This project creates a text-editor application using Heroku. The application was built with webpack, which creates a leaner application for deployment. The browser version of the application allows you to install a local application for the text-editor. This is useful during development by having a separate window for writing code, outside of your development environment.
 
 <br>
 
@@ -42,15 +43,10 @@ This project creates a text-editor application using Heroku. The application was
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 <br>
 
-![webpack]()
-
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 <br>
 
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-<br>
-
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 <br>
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -73,10 +69,7 @@ This project creates a text-editor application using Heroku. The application was
 <br>
 
 ## Deployment
-
-Website URL: [enDEVors](https://endevor-3d604fa0490c.herokuapp.com/)
-
-![alt text](./public/assets/endevors-home.png)
+View the deployed application [here!](https://text-editor-heroku-29c23aaf0dae.herokuapp.com/)
 
 <br>
 
